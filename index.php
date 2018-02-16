@@ -23,6 +23,6 @@
     <body>
         <h1>This is a test</h1>
         <p>by Ahmed</p>
-        <?php include ('DomainCheck.php'); ?>
+        <?php echo '<p>Hello World</p>'; ?>
     </body>
 <html>
