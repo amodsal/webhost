@@ -1,5 +1,5 @@
 <?php
-
+    
 //include the required files
 require_once('includes/config.php');
 require_once('classes/reseller_api.php');
@@ -10,11 +10,7 @@ $reseller_api = new reseller_api();
 //construct the request data
 $request = array(
 	'DomainNames' => array(
-		'domaintocheck001.com',
-		'domaintocheck002.com.au',
-		'domaintocheck003.tv',
-		'domaintocheck004.co.uk',
-		'domaintocheck005.org'
+		$_POST['domainname']
 	)
 );
 

@@ -23,6 +23,9 @@
     <body>
         <h1>This is a test</h1>
         <p>by Ahmed</p>
-        <?php include ('DomainCheck.php'); ?>
+        <form action="DomainCheck.php" method="post">
+            Domain Name: <input type="text" name="domainname" /><br />
+            <input type="submit" name="submit" value="Search" />
+        </form>
     </body>
 <html>
