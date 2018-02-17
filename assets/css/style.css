@@ -260,14 +260,16 @@ p.copyright {
 }
 .logo { 
     position:absolute; 
-    top: 31px; 
+    top: 35px; 
     font-size: 29px; 
-    line-height: 19px; 
+    line-height: 44px; 
     font-weight: normal;
     font-family:'Baloo Bhai', cursive; 
-    padding: 0 15px; 
-    color: #fbfbfb7d; 
-    text-decoration: none; 
+    padding: 11px 21px 7px 17px; 
+    color: #fbfbfbe6; 
+    text-decoration: none;
+    background-color: #ce2063ad;
+    left: 0px;
 }
 
 .logo:hover{

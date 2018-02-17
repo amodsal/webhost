@@ -38,10 +38,9 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <br/>
-                    <br/>
+                    <br />
                     <h2 class="subtitle">Search for a domain name</h2>
-                    <br/>
-             
+                    
                     <form action="DomainCheck.php" method="post" class="form-inline validate signup">
                         <div class="form-group">
                             <input type="text" class="form-control" name="sld" placeholder="Find a domain">
