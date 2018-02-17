@@ -19,6 +19,9 @@
     <!-- siimple style -->
     <link href="assets/css/style.css" rel="stylesheet">
 
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai" rel="stylesheet">
+    
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -29,6 +32,9 @@
 <body>
     <div id="wrapper">
         <div class="container">
+            <div class="row">
+                <a class="logo" href="#">harmattan.</a>
+            </div>
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <?php

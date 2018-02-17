@@ -18,6 +18,9 @@
 
     <!-- siimple style -->
     <link href="assets/css/style.css" rel="stylesheet">
+    
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -30,6 +33,9 @@
     <div id="wrapper">
         <div class="container">
             <div class="row">
+                <a class="logo" href="#">harmattan.</a>
+            </div>
+            <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <br/>
                     <br/>
@@ -39,7 +45,6 @@
                     <form action="DomainCheck.php" method="post" class="form-inline validate signup">
                         <div class="form-group">
                             <input type="text" class="form-control" name="sld" placeholder="Find a domain">
-                            <input type="text1" class="form-control" name="tld" placeholder="com">
                               <div class="select-style"><select name="tld">
                                 <option value="com">.com</option>
                                 <option value="ca">.ca</option>
