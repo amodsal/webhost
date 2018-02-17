@@ -32,6 +32,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <?php
+                            
                           //construct the request data
                           $secondLevelDomain = $_POST['sld'];
                           $topLevelDomain = $_POST['tld'];      

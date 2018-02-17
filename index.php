@@ -60,6 +60,11 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-lg-offset-3">
+                    <?php
+                        // Get server IP address
+                        echo $_SERVER['LOCAL_ADDR'];
+                        echo $_SERVER['SERVER_ADDR'];
+                    ?>
                 </div>
             </div>
         </div>
