@@ -32,47 +32,39 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <?php
+                          //construct the request data
+                          $secondLevelDomain = $_POST['sld'];
+                          $topLevelDomain = $_POST['tld'];      
+                    
+                          if (empty($topLevelDomain)) {
+                              $topLevelDomain = "com";
+                          }
+                              
+                          // URL for API request
+                          $url =  'https://reseller.enom.com/interface.asp?command=check&sld=' . $secondLevelDomain . '&tld=' . $topLevelDomain . '&responsetype=xml&uid=resellid&pw=resellpw';
+                        
+                          //echo $url . "<br /><br />";
+                    
+                          // Load the API results into a SimpleXML object
+                          $xml = simplexml_load_file($url);
 
-                    //include the required files
-                    require_once('includes/config.php');
-                    require_once('classes/reseller_api.php');
+                          // Read the results
+                          $rrpCode = $xml->RRPCode;
+                          $rrpText = $xml->RRPText;
+                          $domainName = $xml->DomainName;
 
-                    //initialise the base reseller_api object
-                    $reseller_api = new reseller_api();
-
-                    //construct the request data
-                    $request = array(
-                        'DomainNames' => array(
-                            $_POST['domainname']
-                        )
-                    );
-
-                    //send the request
-                    $response = $reseller_api->call('DomainCheck', $request);
-
-                    if (!is_soap_fault($response)) {
-
-                        //Successfully checked the availability of the domains
-                        if (isset($response->APIResponse->AvailabilityList)) {
-                            echo '<h2 class="subtitle">'. $response->APIResponse->AvailabilityList[0]->Item . ' - is ';
-
-                            if (!$response->APIResponse->AvailabilityList[0]->Available) {
-                                echo 'not ';
-                            }
-
-                            echo 'available</h2><br />';
-                        } else {
-                            echo '<h2 class="subtitle">The following error(s) occurred:<br />';
-
-                            foreach ($response->APIResponse->Errors as $error) {
-                                echo $error->Item . ' - ' . $error->Message . '</h2><br />';
-                            }
-                        }
-                    } else {
-
-                        //SoapFault
-                        echo '<h2 class="subtitle">Error occurred while sending request: ' . $response->getMessage() . '</h2>';
-                    }
+                          // Perform actions based on results
+                          switch ($rrpCode) {
+                            case 210:
+                              echo "<h2>" . $domainName . "<br /><br /> Nice! This domain is available. Claim it quick. </h2>";
+                              break;
+                            case 211:
+                              echo "<h2>" . $domainName . "<br /><br /> Oh No! The domain you selected is already taken :( </h2>";
+                              break;
+                            default:
+                              echo $rrpCode . ' ' . $rrpText;
+                              break;
+                          }
                     ?>
                 </div>
                 </div>

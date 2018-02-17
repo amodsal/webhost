@@ -38,7 +38,8 @@
              
                     <form action="DomainCheck.php" method="post" class="form-inline validate signup">
                         <div class="form-group">
-                            <input type="text" class="form-control" name="domainname" id="exampleInputEmail1" placeholder="Find a domain">
+                            <input type="text" class="form-control" name="sld" placeholder="Find a domain">
+                            <input type="text1" class="form-control" name="tld" placeholder="com">
                         </div>
                         <input type="submit" name="submit" value="Search" class="btn btn-theme">
                     </form>

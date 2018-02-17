@@ -111,6 +111,12 @@ form.signup input[type=text]  {
 	border-radius: 0;
 	border: none;
 }
+form.signup input[type=text1]  {
+	height: 42px;
+	width: 60px;
+	border-radius: 0;
+	border: none;
+}
 form.signup button.btn {
 	font-weight: 700;
 }
@@ -123,7 +129,7 @@ form.signup input.form-control:focus {
 
 #wrapper {
 	text-align: center;
-	background: url(../img/pexels-photo-696680.jpeg) no-repeat center top;
+	background: url(../img/pexels-photo-45987.jpeg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
   box-sizing:border;
