@@ -112,7 +112,8 @@ form.signup input[type=text]  {
 	border: none;
 }
 form.signup input[type=text1]  {
-	height: 42px;
+	display: none;
+    height: 42px;
 	width: 60px;
 	border-radius: 0;
 	border: none;
@@ -128,7 +129,7 @@ form.signup input.form-control:focus {
 /* wrapper */
 
 #wrapper {
-	text-align: center;
+	text-align: left;
 	background: url(../img/pexels-photo-45987.jpeg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
@@ -239,6 +240,33 @@ p.copyright {
   margin-right: 5px;
 }
 
+/* Added by Ahmed */
+
+.select-style {
+    display: inline-block;
+    /*overflow: hidden;*/
+    height: 42px;
+	width: 60px;
+	border-radius: 0;
+	border: none;
+    background: #fafafa;
+}
+
+.select-style select {
+    padding: 5px 8px;
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+}
+
+.select-style select:focus {
+    outline: none;
+}
+
+/* Added by Ahmed */
 
 @media only screen 
 and (min-device-width : 320px) 

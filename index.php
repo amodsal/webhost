@@ -40,6 +40,12 @@
                         <div class="form-group">
                             <input type="text" class="form-control" name="sld" placeholder="Find a domain">
                             <input type="text1" class="form-control" name="tld" placeholder="com">
+                              <div class="select-style"><select name="tld">
+                                <option value="com">.com</option>
+                                <option value="ca">.ca</option>
+                                <option value="org">.org</option>
+                                <option value="co">.co</option>
+                              </select></div>
                         </div>
                         <input type="submit" name="submit" value="Search" class="btn btn-theme">
                     </form>
@@ -60,11 +66,6 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-lg-offset-3">
-                    <?php
-                        // Get server IP address
-                        echo $_SERVER['LOCAL_ADDR'];
-                        echo $_SERVER['SERVER_ADDR'];
-                    ?>
                 </div>
             </div>
         </div>

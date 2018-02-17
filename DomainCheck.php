@@ -57,10 +57,10 @@
                           // Perform actions based on results
                           switch ($rrpCode) {
                             case 210:
-                              echo "<h2>" . $domainName . "<br /><br /> Nice! This domain is available. Claim it quick. </h2>";
+                              echo "<h2>" . $domainName . "<br /><br /> nice! this domain is available. </h2>";
                               break;
                             case 211:
-                              echo "<h2>" . $domainName . "<br /><br /> Oh No! The domain you selected is already taken :( </h2>";
+                              echo "<h2>" . $domainName . "<br /><br /> oh no! the domain you selected is already taken :( </h2>";
                               break;
                             default:
                               echo $rrpCode . ' ' . $rrpText;
