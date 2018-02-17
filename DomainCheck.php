@@ -41,7 +41,7 @@
                           }
                               
                           // URL for API request
-                          $url =  'https://reseller.enom.com/interface.asp?command=check&sld=' . $secondLevelDomain . '&tld=' . $topLevelDomain . '&responsetype=xml&uid=azure&pw=5TGYEZV4CJ3PVODFDN6JOEF2CAJWJJX4VUYPFNY7';
+                          $url =  'https://reseller.enom.com/interface.asp?command=check&sld=' . $secondLevelDomain . '&tld=' . $topLevelDomain . '&responsetype=xml&uid=harmattan&pw=salih02071983';
                         
                           //echo $url . "<br /><br />";
                     
