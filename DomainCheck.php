@@ -33,7 +33,7 @@
     <div id="wrapper">
         <div class="container">
             <div class="row">
-                <a class="logo" href="https://harmattan.azurewebsites.net">harmattan.</a>
+                <a class="logo" href="https://harmattan.azurewebsites.net">Search for a domain name</a>
             </div>
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12">

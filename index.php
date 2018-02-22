@@ -38,8 +38,8 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <br/>
-                    <br />
-                    <h2 class="subtitle">Search for a domain name</h2>
+                    <br/>
+                    <h2 class="subtitle"></h2>
                     
                     <form action="DomainCheck.php" method="post" class="form-inline validate signup">
                         <div class="form-group">

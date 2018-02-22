@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,300,700,900');
 
 body {
-	background: #900C3F;
+	background: #808B96;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     font-size: 16px;
@@ -15,7 +15,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #444;
+    color: #fff;
 }
 
 h1 {
@@ -123,7 +123,7 @@ form.signup input.form-control:focus {
 
 #wrapper {
 	text-align: left;
-	background: url(../img/pexels-photo-45987.jpeg) no-repeat center top;
+	background: url(../img/cn-tower-in-storm_4460x4460.jpg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
   box-sizing:border;
@@ -155,7 +155,7 @@ form.signup input.form-control:focus {
 }
 
 h2.subtitle {
-	color: #2B3E67;
+	color: #fff;
 	font-size: 24px;
 }
 
