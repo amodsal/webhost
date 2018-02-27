@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="title" content="remote desktop">
+   
+    <link rel="shortcut icon" href="assets/img/favicon.png">
+
+    <title>Remote Desktop</title>
+
+    <!-- Bootstrap -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-theme.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/animations.css">
+
+    <!-- siimple style -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div id="wrapper">
+        <div class="container">
+            <div class="row">
+                <a class="logo" href="https://searchdomain.azurewebsites.net">Start a remote desktop session</a>
+            </div>
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <br/>
+                    <br/>
+                    <h2 class="subtitle"></h2>
+                    
+                    <form action="rdp.php" method="post" class="form-inline validate signup">
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="srv" placeholder="Enter computer name or IP">
+                        </div>
+                        <input type="submit" name="submit" value="Search" class="btn btn-theme">
+                    </form>
+                    <br/>
+                </div>
+
+				<!--<a href="http://webserver/rdp.php?srv=webserver">RDP to webserver</a>
+				<a href="http://webserver/vnc.php?srv=webserver">VNC to webserver</a>-->
+			</div>
+            <div class="row">
+                <div class="col-lg-6 col-lg-offset-3">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>
+        $(document).ready( function () {
+            $('#wrapper').height($(document).height());
+        });
+    </script>
+</body>
+</html>
