@@ -18,11 +18,11 @@ else
       // Set headers 
       header("Cache-Control: public"); 
       header("Content-Description: File Transfer"); 
-      header("Content-Disposition: attachment; filename=" . $_GET["srv"] . ".rdp"); 
+      header("Content-Disposition: attachment; filename=" . $serverName . ".rdp"); 
       header("Content-Type: text/plain"); 
       header("Content-Transfer-Encoding: 8bit"); 
 
-      echo str_ireplace("{SERVER_ADDRESS}", $_GET["srv"], $rdp_file); 
+      echo str_ireplace("{SERVER_ADDRESS}", $serverName, $rdp_file); 
    } 
    else 
       die("You must specify a valid server name"); 
