@@ -1,0 +1,515 @@
+<table class="ms-rteTable-default" cellspacing="0" style="width: 100%; height: 31px;">
+   <tbody>
+      <tr class="ms-rteTableEvenRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="width: 10%; height: 21px;">​<strong>​​​​​​​​​​​​​​​​​​​​​​​​​Release</strong></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1" colspan="1" style="width: 5%; height: 21px;">
+            <strong>​Phase</strong></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="width: 5%; height: 21px;">
+            <strong>​Status</strong></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1" colspan="1" style="width: 7%; height: 21px;">
+            <strong>​TP Server</strong></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="width: 7%; height: 21px;">
+            <strong>​TP Instance</strong></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1" colspan="1" style="width: 7%; height: 21px;">
+            <strong>​DB Server</strong></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="width: 7%; height: 21px;">
+            <strong>​DB Instance</strong></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1" colspan="1" style="width: 7%; height: 21px;">
+            <strong>​Host System (Tx/Px)</strong></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="width: 15%; height: 21px;">
+            <strong>​Comments</strong></td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​CBFE - T3</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">-</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​Active​</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">HOR_SDJ01​</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​Production</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​UAT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​PRD_T4</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​T3</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1" style="width: 11%;">​</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#f4f6f6">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​​Horizon R8.10</span></td>
+         <td class="ms-rteTableOddCol-default">
+            <span class="ms-rteThemeForeColor-1-5">UAT</span></td>
+         <td class="ms-rteTableEvenCol-default">
+            <span class="ms-rteThemeForeColor-1-5">Active</span></td>
+         <td class="ms-rteTableOddCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​HOR_SDR01</span></td>
+         <td class="ms-rteTableEvenCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​Env-sdr1-1</span></td>
+         <td class="ms-rteTableOddCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​SIT1​</span></td>
+         <td class="ms-rteTableEvenCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​​<span aria-hidden="true"></span>SIT1_08</span></td>
+         <td class="ms-rteTableOddCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" style="width: 11%;">
+            <span class="ms-rteThemeForeColor-1-5">​Phase 1 (Only TP Patched)</span></td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#f4f6f6">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​Horizon R8.10</span></td>
+         <td class="ms-rteTableOddCol-default">
+            <span class="ms-rteThemeForeColor-1-5">UAT</span></td>
+         <td class="ms-rteTableEvenCol-default">
+            <span class="ms-rteThemeForeColor-1-5">Active</span></td>
+         <td class="ms-rteTableOddCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​HOR_SDR01</span></td>
+         <td class="ms-rteTableEvenCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​Production</span></td>
+         <td class="ms-rteTableOddCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​​SDR1</span></td>
+         <td class="ms-rteTableEvenCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​IPPRODDB</span></td>
+         <td class="ms-rteTableOddCol-default">
+            <span class="ms-rteThemeForeColor-1-5">​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" style="width: 11%;">
+            <span class="ms-rteThemeForeColor-1-5">​Phase 2 (TP/DB Patched)</span></td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#f4f6f6">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​<span class="ms-rteThemeForeColor-2-5">Horizon R8.10</span><span class="ms-rteThemeForeColor-2-5" aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​UAT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​<span aria-hidden="true"></span>Active<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​HOR_DIT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​<span aria-hidden="true"></span>​Production<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​SIT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​IPPRODDB</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​Autosys batch testing</span></td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#d4efdf">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​<span class="ms-rteThemeForeColor-2-0"><span aria-hidden="true"></span>​​​​​​​​<span aria-hidden="true"></span>​Horizon R8.16<span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​UAT</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Active</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​HOR_UAT03</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Env-uat3-4</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​UAT1</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​​UAT1_04</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​​<span aria-hidden="true"></span>​T4</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#d4efdf">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​Horizon R8.16</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​UAT</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Active</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5">​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​HOR_UAT03<span aria-hidden="true"></span></span><span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Env-uat3-5</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​UAT1</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​​UAT1_05</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​<span class="ms-rteThemeForeColor-2-5"><span aria-hidden="true"></span>​P1<span aria-hidden="true"></span><span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#d4efdf">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​​​Horizon R8.16</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​​UAT</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Active</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​HOR_UAT03<span aria-hidden="true"></span><span aria-hidden="true"></span></span><span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​​Production</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​UAT1</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​​​UAT1_04</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​T4</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Citrix / xDomain</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​Horizon R8.16</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​PTE</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Active</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​HOR_PTE01</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Production</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​PTE1</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> 
+               <span aria-hidden="true"></span>​IPPRODDB<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​T4</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​​Horizon R8.16</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​PTE</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​​Active</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​HOR_PTE02</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​​Production</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​PTE1</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span class="ms-rteThemeForeColor-2-5"><span aria-hidden="true"></span><span aria-hidden="true"></span>​IPPRODDB<span aria-hidden="true"></span><span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​T4</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#faebd7">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​Horizon R8.18</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​DIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​​Active</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​<span aria-hidden="true"></span>​HOR_DIT01<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​Env-dit1-2</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​DIT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> DIT1_02</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#faebd7">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​Horizon R8.18</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​DIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span style="color: #222222; background-color: #faebd7;">​​Active</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​<span aria-hidden="true"></span>​HOR_DIT01<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​Env-dit1-3</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​DIT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"><span aria-hidden="true"></span><span aria-hidden="true"></span>DIT1_03</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​P1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#faebd7">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​Horizon R8.18</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​DIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">-</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​<span aria-hidden="true"></span>​HOR_DIT01<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​Env-dit1-4</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​DIT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"><span aria-hidden="true"></span><span aria-hidden="true"></span>DIT1_02&#160;/ DIT1_04</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5"> ​​Citrix&#160;/ Backout</span></td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#faebd7">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​Horizon R8.18</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​​DIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #222222; background-color: #faebd7;">​​Active</span>​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​​<span aria-hidden="true"></span>​HOR_DIT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​Production</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​​DIT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​<span aria-hidden="true"></span>DIT1_03​<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​P1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-2-5">​</span><span class="ms-rteThemeForeColor-2-5">Citrix</span></td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#f5f5dc">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5">​​Horizon R8.18</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​SIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​​​Active</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​HOR_SIT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​Env-sit1-4</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​SIT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​<span aria-hidden="true"></span>SIT1_02</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#f5f5dc">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​<span aria-hidden="true"></span>​<span aria-hidden="true"></span>​Horizon R8.18<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​SIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919; background-color: #f5f5dc;">​​​Active</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​HOR_SIT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​Env-sit1-5</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​​SIT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​​<span aria-hidden="true"></span>SIT1_03</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"> ​P1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#f5f5dc">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​Horizon R8.18</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​<span aria-hidden="true"></span>​SIT<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919; background-color: #f5f5dc;">​​​Active</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​<span aria-hidden="true"></span>​HOR_SIT01<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​<span aria-hidden="true"></span>​Env-sit1-6</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​<span aria-hidden="true"></span>​​SIT1<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​<span aria-hidden="true"></span>​​<span aria-hidden="true"></span>SIT1_02</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​​Citrix</td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​Horizon R8.18</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​UAT</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919;">​HOR_UAT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919;">​​Env-uat1-1</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​UAT1</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919;">UAT1_08</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​T4</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Telephone Banking</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​Horizon R8.18</span>​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​UAT</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919;">​HOR_UAT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919;">​​Env-uat1-2</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​​UAT1​</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​UAT1_10</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​T4</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919;">Backout</span></td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​Horizon R8.18<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​<span aria-hidden="true"></span>​UAT<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​HOR_UAT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​​Env-uat1-4</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​​SIT1/UAT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span class="ms-rteThemeForeColor-1-5"><span aria-hidden="true"></span>​​​​​SIT1_09 /&#160;<span class="ms-rteForeColor-2">UAT1_08</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span class="ms-rteForeColor-2">UAT1_08 contain the old R8.18 DB changes - keep</span></td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​<span aria-hidden="true"></span>​Horizon R8.18<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"> ​<span aria-hidden="true"></span>​UAT<span aria-hidden="true"></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"> ​HOR_UAT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"> ​​Env-uat1-5</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">SIT1/UAT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5">​<span aria-hidden="true"></span>​SIT1_10 /&#160;<span class="ms-rteForeColor-2">UAT1_09</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"> ​P1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span class="ms-rteForeColor-2">UAT1_09&#160;contain the old R8.18 DB changes - keep</span></td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​​<span style="color: #191919;">​Horizon R8.18</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919;">UAT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919;">​</span><span aria-hidden="true" style="color: #191919;"></span><span style="color: #191919;">​HOR_UAT01</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919;">Production</span>​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919;">​</span><span aria-hidden="true" style="color: #191919;"></span><span style="color: #191919;">​​SIT1​/UAT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919;">SIT1_10 / 
+               <span class="ms-rteForeColor-2">UAT1_09<span aria-hidden="true"></span></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​P1</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Citrix</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#ffffe0">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​​​​​<span class="ms-rteThemeForeColor-2-5">​​<span aria-hidden="true"></span>​Horizon R8.20​​</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​​DIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​Active​</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​HOR_SIT02</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​Env-sit2-1</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​DIT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​DIT1_05</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#ffffe0">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">
+               <span style="background-color: #eaf2f8;">​</span><span style="background-color: #eaf2f8;"><span aria-hidden="true"></span>​<span style="background-color: #d4efdf;"><span style="color: #222222; background-color: #ffffe0;">Horizon R8.20​​</span>​</span></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​​DIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">
+               <span>​</span><span style="background-color: #d4efdf;"><span style="color: #222222; background-color: #ffffe0;">Active</span></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​HOR_SIT02</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">Env-sit2-2</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">
+               <span style="background-color: #d4efdf;">
+                  <span style="color: #222222; background-color: #ffffe0;">DIT1</span></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​DIT1_06</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​P1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#ffffe0">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">
+               <span style="background-color: #eaf2f8;"></span>
+               <span style="background-color: #eaf2f8;">
+                  <span style="background-color: #d4efdf;">
+                     <span style="color: #222222; background-color: #ffffe0;">Horizon R8.20​​</span>​​</span>​</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​DIT</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">
+               <span>​</span><span style="background-color: #d4efdf;"></span><span><span style="color: #222222; background-color: #ffffe0;">Active</span></span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​<span style="background-color: #d4efdf;"><span style="color: #222222; background-color: #ffffe0;">HOR_SIT02</span></span>​</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​Env-sit2-3</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​<span style="background-color: #d4efdf;">​</span><span style="background-color: #d4efdf;"></span><span style="color: #222222; background-color: #ffffe0;">DIT1</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​DIT1_07</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-2-5">​Backout</span></td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#eaf2f8">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5">​Horizon R8.20​​</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>UAT</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​Active</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span style="background-color: #eaf2f8;">HOR_UAT02</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span style="background-color: #eaf2f8;">Env-uat2-1</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span> ​UAT1​</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5">​UAT1_01</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​T4</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#eaf2f8">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span> ​Horizon R8.20​​</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span> </span> 
+               <span> 
+                  <span aria-hidden="true"></span>UAT<span aria-hidden="true"></span></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span style="background-color: #eaf2f8;">HOR_UAT02</span><span>​</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5">​Env-uat2-2</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​UAT1</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​UAT1_02</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​P1</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+      </tr>
+      <tr class="ms-rteTableOddRow-default" bgcolor="#eaf2f8">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​Horizon R8.20​​</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span> </span> 
+               <span> 
+                  <span aria-hidden="true"></span>UAT<span aria-hidden="true"></span></span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span style="background-color: #eaf2f8;">HOR_UAT02</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span>Env-uat2-3​</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​UAT1</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span>​UAT1_03</span></span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1"> 
+            <span class="ms-rteThemeForeColor-1-5"><span> </span> 
+               <span>T4</span></span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​Backout</span></td>
+      </tr>
+      <tr class="ms-rteTableEvenRow-default" bgcolor="#eaf2f8">
+         <td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1">​<span style="color: #191919; background-color: #eaf2f8;">​Horizon R8.20​​</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919; background-color: #eaf2f8;">UAT</span>​</td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​</td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919; background-color: #eaf2f8;">​</span><span style="color: #191919; background-color: #eaf2f8;">HOR_UAT02</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919; background-color: #eaf2f8;">Env-uat</span><span style="color: #191919; background-color: #eaf2f8;">2-3</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919; background-color: #eaf2f8;">UAT1</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">​<span style="color: #191919; background-color: #eaf2f8;">UAT1_06</span></td>
+         <td class="ms-rteTableOddCol-default" rowspan="1">​<span style="color: #191919; background-color: #eaf2f8;">T4</span></td>
+         <td class="ms-rteTableEvenCol-default" rowspan="1">
+            <span class="ms-rteForeColor-2"><span>​TrainDB for&#160;</span><span style="background-color: #eaf2f8;">Backout</span><span>​ testing</span></span></td>
+      </tr>
+      <tr class="ms-rteTableFooterRow-default" bgcolor="#eaf2f8">
+         <td class="ms-rteTableFooterEvenCol-default" rowspan="1" colspan="1">​<span class="ms-rteThemeForeColor-1-5" style="color: #191919; background-color: #eaf2f8;">​<span>Horizon R8.20​​</span></span></td>
+         <td class="ms-rteTableFooterOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span style="background-color: #eaf2f8;">UAT</span></span></td>
+         <td class="ms-rteTableFooterEvenCol-default" rowspan="1">​</td>
+         <td class="ms-rteTableFooterOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span style="background-color: #eaf2f8;">​</span><span style="background-color: #eaf2f8;">HOR_UAT01</span></span></td>
+         <td class="ms-rteTableFooterEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span>Production</span></span></td>
+         <td class="ms-rteTableFooterOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span style="background-color: #eaf2f8;">UAT1</span><span>​</span></span></td>
+         <td class="ms-rteTableFooterEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5"><span>​</span><span style="background-color: #eaf2f8;">UAT1_02</span></span></td>
+         <td class="ms-rteTableFooterOddCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​P1</span></td>
+         <td class="ms-rteTableFooterEvenCol-default" rowspan="1">
+            <span class="ms-rteThemeForeColor-1-5">​R8.18&#160;</span><span class="ms-rteThemeForeColor-1-5">Citrix​ Testing with R8.20 DB</span></td>
+      </tr>
+   </tbody>
+</table>
+<p>&#160;</p>
