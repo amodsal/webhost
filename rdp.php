@@ -1,5 +1,6 @@
 <?php 
 $file = 'rdpconnect.txt'; 
+$serverName = '';
 
 if(!file_exists($file)) 
 { 
@@ -8,7 +9,10 @@ if(!file_exists($file))
 } 
 else 
 { 
-   if(isset($_GET) && array_key_exists("srv", $_GET) && preg_match("/^[A-Za-z0-9\.-][A-Za-z0-9\.-][A-Za-z0-9\.-]+$/i",$_GET["srv"])) 
+   $serverName = $_POST['srv'];
+   echo "Your Computer Name: " . $serverName;
+   
+   if(isset($serverName) && preg_match("/^[A-Za-z0-9\.-][A-Za-z0-9\.-][A-Za-z0-9\.-]+$/i",$serverName)) 
    { 
       $rdp_file = file_get_contents($file); 
       // Set headers 
